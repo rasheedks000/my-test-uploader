@@ -21,7 +21,7 @@ requests
 tgcrypto
 #youtube-dl
 git+git://github.com/sudoshell/youtube-dl@73400cc#youtube_dl
-
+sudo pip install --upgrade youtube_dl
 
 
 
